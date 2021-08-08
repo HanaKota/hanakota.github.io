@@ -7,6 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: My lovely Dog's Blog!
+categories: [Book, Diary, DiscDog, OutDoor, Discipline]
 description: Hanatarou is a old Labrador Retriever , Kotarou is a young Jack Russell Terrier. They love play and outdoor. ❤
 github_username: HanaKota
 
